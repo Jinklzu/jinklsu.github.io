@@ -85,6 +85,9 @@ background: rgba(0,0,0,0);
 height: 500px;
 background-image:url(jojo.jpg);
 background-attachment: fixed;
+    color: white;
+    font-size : 30;
+    text-align: center;
 }
 #feel2{
 background: rgba(0,0,0,0);
