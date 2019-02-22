@@ -31,7 +31,7 @@ inset 0 0 1px rgba(255,255,255,0.6);
 }
 nav ul li {
 	display:inline-block;
-    color:ghostwhite;
+    color:ghostwhite
 }
 nav ul li a{
 	padding:0;
@@ -85,9 +85,12 @@ background: rgba(0,0,0,0);
 height: 500px;
 background-image:url(jojo.jpg);
 background-attachment: fixed;
-    color: rgb(255,255,255);
-    font-size : 30;
-    text-align: center;
+  
+}
+#ss{
+    color: white;
+  font-size : 30;
+    text-align: center;  
 }
 #feel2{
 background: rgba(0,0,0,0);
