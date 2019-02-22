@@ -85,8 +85,6 @@ background: rgba(0,0,0,0);
 height: 500px;
 background-image:url(jojo.jpg);
 background-attachment: fixed;
-font-size: 50;
-	color: white;
 }
 #feel2{
 background: rgba(0,0,0,0);
@@ -208,8 +206,21 @@ color:crimson;
 }
 #poop{
     position: relative;
-    
+    display: inline-block;
     left:10%;
+    text-align: bottom;
+}
+#table1 {
+    position: relative;
+    top: 150;
+    color: white;
+    font-size: 30;
+    
+}
+#table{
+margin-left: auto;
+    margin-right: auto;
+    
 }
 #tt{
    margin-left: auto;
